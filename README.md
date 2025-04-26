@@ -1,1 +1,1 @@
-[visit site of todo](https://bikkukumarprajapati.github.io/razorpay-clone/)
+[visit site of rozarpay](https://bikkukumarprajapati.github.io/razorpay-clone/)
